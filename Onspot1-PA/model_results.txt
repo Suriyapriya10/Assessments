@@ -1,0 +1,9 @@
+Model Outcome:
+Decision Tree Outcome: ['Pass with Low Grade', 'Pass with Low Grade', 'Fail', 'Pass with Low Grade', 'Fail']
+Random Forest Outcome: ['Pass with Low Grade', 'Pass with Low Grade', 'Fail', 'Pass with Low Grade', 'Fail']
+XGBoost Outcome: ['Pass with Low Grade', 'Pass with Low Grade', 'Fail', 'Pass with Low Grade', 'Fail']
+
+Model Comparison:
+Decision Tree Accuracy: 1.0
+Random Forest Accuracy: 1.0
+XGBoost Accuracy: 1.0
